@@ -2,7 +2,8 @@
 layout: post
 title:  The way to get started is to quit talking and begin doing
 date:   2018-04-23 15:01:35 +0300
-image:  '/images/15.jpg'
+permalink: /journal
+image:  'journal/images/15.jpg'
 tags:   [fashion, story, rest]
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace [Becca Tapert](https://unsplash.com/photos/lA7OhpEMRug) diversity and empowerment.

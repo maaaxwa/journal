@@ -29,10 +29,10 @@ hero:
 portfolio:
   portfolio__title: Portfolio
   portfolio__gallery:
-    - image: /images/portfolio/DSCF2348.JPG
+    - image: /journal/images/portfolio/DSCF2348.JPG
       title: Samantha Gades
       description: Juno
-    - image: /images/gallery-01.jpg
+    - image: /journal/images/gallery-01.jpg
       title: Samantha Gades
       description: Brown photo frame beside wall <a href="https://unsplash.com/photos/8Od75hgzb9Y">Unsplash</a>
 

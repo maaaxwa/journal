@@ -112,12 +112,16 @@ li {
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/09.jpg">
-    <img src="/images/06.jpg">
-    <img src="/images/03.jpg">
-    <img src="/images/08.jpg">
-    <img src="/images/05.jpg">
-    <img src="/images/11.jpg">
+    <div class="gallery-square">
+    <img src="/journal/images/2023-12-18-scandinavia/DSCF4893_sq.JPG">
+    </div>
+    <div class="gallery-square">
+    <img src="/journal/images/2023-12-18-scandinavia/DSCF4893.JPG">
+    </div><div class="gallery-square">
+    <img src="/journal/images/2023-12-18-scandinavia/DSCF4893.JPG">
+    </div><div class="gallery-square">
+    <img src="/journal/images/2023-12-18-scandinavia/DSCF4893.JPG">
+    </div>
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>

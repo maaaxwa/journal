@@ -2,7 +2,6 @@
 # Site Settings
 title: Max Wang
 logo: # You can add own logo. For example '/images/logo.png'.
-author: Jason Collins
 description: Clancy is a elegant portfolio theme for Jekyll.
 
 
@@ -20,7 +19,7 @@ menu__settings:
 
 #-------------------------------
 # Hero Settings
-hero:
+hero: 
   hero__description: hello world
 
 
@@ -30,8 +29,7 @@ portfolio:
   portfolio__title: Portfolio
   portfolio__gallery:
     - image: /journal/images/portfolio/DSCF2348.JPG
-      title: Samantha Gades
-      description: Juno
+      title: Juno
     - image: /journal/images/gallery-01.jpg
       title: Samantha Gades
       description: Brown photo frame beside wall <a href="https://unsplash.com/photos/8Od75hgzb9Y">Unsplash</a>

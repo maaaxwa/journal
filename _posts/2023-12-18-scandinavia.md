@@ -58,3 +58,5 @@ tags:   [vacation, family]
     <img src="/journal/images/2023-12-18-scandinavia/DSCF5266_sq.jpg" /> 
   </div>
 </div>
+
+magick *.jpg -set filename:f "%[t]_sq" -background white -gravity center -extent %[fx:max(w,h)*1.02]x%[fx:max(w,h)*1.02] -quality 50 "%[filename:f].jpg"

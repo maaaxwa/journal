@@ -24,7 +24,7 @@ defaults:
   - scope:
       path: '_posts'
     values:
-      permalink: /records/:slug
+      permalink: /records/:year/:month/:day/:title
 
 include:
   - _pages
